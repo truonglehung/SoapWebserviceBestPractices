@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//src/com/vsolu/soapsimple/beans/Person.java=UTF-8
+encoding//src/com/vsolu/soapsimple/service/PersonServiceImpl.java=UTF-8
+encoding//src/com/vsolu/soapsimple/service/PersonServiceImplService.java=UTF-8
+encoding//src/com/vsolu/soapsimple/service/PersonServiceImplServiceLocator.java=UTF-8
+encoding//src/com/vsolu/soapsimple/service/PersonServiceImplSoapBindingStub.java=UTF-8
